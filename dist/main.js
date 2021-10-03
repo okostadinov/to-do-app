@@ -1,0 +1,1 @@
+(()=>{const e=document.createElement("h1");e.textContent="Hi from webapck",document.querySelector("body").appendChild(e)})();
